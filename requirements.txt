@@ -1,0 +1,4 @@
+requests
+openpyxl
+jinja2
+requests-cache
